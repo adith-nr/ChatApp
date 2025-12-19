@@ -15,7 +15,7 @@ Full-stack realtime chat built with React (Vite) on the frontend and Express/Mon
 1) Install dependencies
 ```bash
 cd Backend && npm install
-cd ../Frontend && npm install
+cd Frontend && npm install(Different Terminal)
 ```
 
 2) Backend environment (`Backend/.env`)
